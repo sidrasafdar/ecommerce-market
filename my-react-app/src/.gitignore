@@ -1,0 +1,28 @@
+# =====================
+# FRONTEND (React)
+# =====================
+node_modules/
+dist/
+build/
+.env
+
+# =====================
+# BACKEND (Flask)
+# =====================
+venv/
+__pycache__/
+*.pyc
+*.db
+instance/
+
+# =====================
+# SYSTEM FILES
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# IDE FILES
+# =====================
+.vscode/
+.idea/
